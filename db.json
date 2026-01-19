@@ -1,45 +1,47 @@
-ضفلي عليه post 3 مع تعليقات بدون اخطاء [
-  {
-    "id": 1,
-    "author_name": "Mike Chen",
-    "author_avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Mike",
-    "title": "The Future of Web Development",
-    "description": "Web development is evolving rapidly...",
-    "time_ago": "22h ago",
-    "comments_count": 2,
-    "comments": [
-      {
-        "id": 101,
-        "post_id": 1,
-        "user_name": "Pat Wilson",
-        "content": "The pace of change can be overwhelming sometimes!",
-        "time_ago": "21h ago"
-      },
-      {
-        "id": 102,
-        "post_id": 1,
-        "user_name": "John Smith",
-        "content": "I totally agree, keeping up is a full-time job.",
-        "time_ago": "5h ago"
-      }
-    ]
-  },
-  {
-    "id": 2,
-    "author_name": "Emily Davis",
-    "author_avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Emily",
-    "title": "Best Practices for API Design",
-    "description": "Designing RESTful APIs requires...",
-    "time_ago": "2d ago",
-    "comments_count": 1,
-    "comments": [
-      {
-        "id": 201,
-        "post_id": 2,
-        "user_name": "Alice Brown",
-        "content": "Very helpful tips for beginners.",
-        "time_ago": "1d ago"
-      }
-    ]
-  }
-]
+{
+  "posts": [
+    {
+      "id": 1,
+      "author_name": "Mike Chen",
+      "author_avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Mike",
+      "title": "The Future of Web Development",
+      "description": "Web development is evolving rapidly...",
+      "time_ago": "22h ago",
+      "comments_count": 2,
+      "comments": [
+        {
+          "id": 101,
+          "post_id": 1,
+          "user_name": "Pat Wilson",
+          "content": "The pace of change can be overwhelming sometimes!",
+          "time_ago": "21h ago"
+        },
+        {
+          "id": 102,
+          "post_id": 1,
+          "user_name": "John Smith",
+          "content": "I totally agree, keeping up is a full-time job.",
+          "time_ago": "5h ago"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "author_name": "Emily Davis",
+      "author_avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Emily",
+      "title": "Best Practices for API Design",
+      "description": "Designing RESTful APIs requires...",
+      "time_ago": "2d ago",
+      "comments_count": 1,
+      "comments": [
+        {
+          "id": 201,
+          "post_id": 2,
+          "user_name": "Alice Brown",
+          "content": "Very helpful tips for beginners.",
+          "time_ago": "1d ago"
+        }
+      ]
+    }
+  ]
+}
