@@ -3,7 +3,7 @@
     {
       "id": 1,
       "author_name": "Mike Chen",
-      "author_avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Mike",
+      "author_avatar": "https://i.pravatar.cc/150?img=11",
       "title": "The Future of Web Development",
       "description": "Web development is evolving rapidly...",
       "time_ago": "22h ago",
@@ -28,7 +28,7 @@
     {
       "id": 2,
       "author_name": "Emily Davis",
-      "author_avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Emily",
+      "author_avatar": "https://i.pravatar.cc/150?img=9",
       "title": "Best Practices for API Design",
       "description": "Designing RESTful APIs requires...",
       "time_ago": "2d ago",
