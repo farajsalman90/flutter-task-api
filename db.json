@@ -1,6 +1,5 @@
-{
-  "posts": [
-     {
+ضفلي عليه post 3 مع تعليقات بدون اخطاء [
+  {
     "id": 1,
     "author_name": "Mike Chen",
     "author_avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Mike",
@@ -42,23 +41,5 @@
         "time_ago": "1d ago"
       }
     ]
-  },
-  {
-    "id": 3,
-    "author_name": "Sarah Johnson",
-    "author_avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Sarah",
-    "title": "TypeScript Tips and Tricks",
-    "description": "TypeScript adds type safety to JavaScript, helping you catch errors early and write more maintainable code for large-scale applications.",
-    "time_ago": "2d ago",
-    "comments_count": 1,
-    "comments": [
-      {
-        "id": 301,
-        "post_id": 3,
-        "user_name": "David Miller",
-        "content": "Using Interfaces vs Types is always a great debate!",
-        "time_ago": "12h ago"
-      }
-    ]
-  
-}
+  }
+]
