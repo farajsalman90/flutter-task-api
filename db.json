@@ -5,7 +5,7 @@
       "author_name": "Mike Chen",
       "author_avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Mike",
       "title": "The Future of Web Development",
-      "description": "Web development is evolving rapidly with new frameworks and tools emerging every day. Staying up to date is crucial for modern developers.",
+      "description": "Web development is evolving rapidly...",
       "time_ago": "22h ago",
       "comments_count": 2,
       "comments": [
@@ -30,7 +30,7 @@
       "author_name": "Emily Davis",
       "author_avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Emily",
       "title": "Best Practices for API Design",
-      "description": "Designing RESTful APIs requires careful consideration of endpoints, HTTP methods, and response formats to ensure a great developer experience.",
+      "description": "Designing RESTful APIs requires...",
       "time_ago": "2d ago",
       "comments_count": 1,
       "comments": [
@@ -40,24 +40,6 @@
           "user_name": "Alice Brown",
           "content": "Very helpful tips for beginners.",
           "time_ago": "1d ago"
-        }
-      ]
-    },
-    {
-      "id": 3,
-      "author_name": "Sarah Johnson",
-      "author_avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Sarah",
-      "title": "TypeScript Tips and Tricks",
-      "description": "TypeScript adds type safety to JavaScript, helping you catch errors early and write more maintainable code for large-scale applications.",
-      "time_ago": "2d ago",
-      "comments_count": 1,
-      "comments": [
-        {
-          "id": 301,
-          "post_id": 3,
-          "user_name": "David Miller",
-          "content": "Using Interfaces vs Types is always a great debate!",
-          "time_ago": "12h ago"
         }
       ]
     }
